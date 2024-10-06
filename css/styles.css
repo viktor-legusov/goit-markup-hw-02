@@ -112,7 +112,7 @@ a {
 
 /*--------------section2-----------*/
 
-.title-stategy {
+ .strteg {
     font-weight: 500;
     font-size: 1.25rem;
     line-height: 120%;
@@ -120,10 +120,43 @@ a {
     color: #2e2f42;
 }
 
-.text-strategy {
+.strateg-text {
     font-weight: 400;
     font-size: 1rem;
     line-height: 150%;
     letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/*--------------section3------------*/
+
+.team {
+    background-color: #F4F4FD;
+}
+
+.team-tittle {
+    font-weight: 700;
+    font-size: 2.25rem;
+    line-height: 111%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.team-foto {
+    font-weight: 500;
+    font-size: 1.25rem;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.team-foto-text {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    text-align: center;
     color: #434455;
 }
