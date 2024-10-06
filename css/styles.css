@@ -33,7 +33,7 @@ body {
     font-weight: 500;
     font-size: 1rem;
     line-height: 150%;
-l   letter-spacing: 0.02em;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
@@ -43,6 +43,10 @@ l   letter-spacing: 0.02em;
 
 .header-menu .links:focus {
     color: #404bbf;
+}
+
+.kontact-header {
+    font-style: normal;
 }
 
 .link {
@@ -60,8 +64,9 @@ l   letter-spacing: 0.02em;
 }
 
 /* ---------header stop----------- */
+/*----------section1-------------*/
 
-h1 {
+ .bodder-tittle {
     font-weight: 700;
     font-size: 56px;
     line-height: 107%;
@@ -70,15 +75,29 @@ h1 {
     color:white;
 }
 
+
 .bodder {
     background-color: #2e2f42;
 }
 
 .section-button {
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 150%;
+    letter-spacing: 0.04em;
     background-color: #4d5ae5;
     color:  #fff;
+    cursor: pointer;
     }
 
+    .section-button:hover {
+        background-color: #404BBF;
+    }
+
+    .section-button:focus {
+        background-color: #404BBF;
+    }
 
 ul {
     list-style: none;
