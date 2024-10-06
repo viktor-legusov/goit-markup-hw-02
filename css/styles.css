@@ -1,43 +1,29 @@
 body {    
        font-family: "Roboto", sans-serif;        
       }
-
+body {
+    color: #434455;
+    background-color: #FFFFFF;
+}
 
 .header-logos {
     font-family: 'Raleway', sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 117%;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
+     color: #4d5ae5;
 }
 
 .header-logos-blu {
     color: #2e2f42;
 }
 
-.header-menu {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 150%;
-    letter-spacing: 0.02em;
+.header-menu-one {
     color: #2e2f42;
 }
 
 .link {
-    font-weight: 400;
-     font-size: 16px;
-     line-height: 150%;
-     letter-spacing: 0.02em;
-     color: #434455;
+         color: #434455;
 }
 
 h1 {
-    font-weight: 700;
-    font-size: 56px;
-    line-height: 107%;
-    letter-spacing: 0.02em;
     text-align: center;
     color:white;
 }
@@ -47,10 +33,6 @@ h1 {
 }
 
 .section-button {
-    border-radius: 4px;
-    padding: 16px 32px;
-    width: 169px;
-    height: 56px;
     background-color: #4d5ae5;
     color:  #fff;
     }
@@ -64,29 +46,16 @@ a {
     text-decoration: none;
 }
 
-.text {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 150%;
-    letter-spacing: 0.02em;
+.text-strategy {
     color: #434455;
 }
 
 .section-strategy {
-    font-weight: 500;
-font-size: 20px;
-line-height: 120%;
-letter-spacing: 0.02em;
-color: #2e2f42;
+    color: #2e2f42;
 }
 
 .section-team {
-    font-weight: 700;
-font-size: 36px;
-line-height: 111%;
-letter-spacing: 0.02em;    
-text-align: center;
-color: #2e2f42;
+    color: #2e2f42;
 }
 
 .section-team-foto {   
