@@ -33,7 +33,7 @@ body {
     font-weight: 500;
     font-size: 1rem;
     line-height: 150%;
-l   etter-spacing: 0.02em;
+l   letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
@@ -41,11 +41,21 @@ l   etter-spacing: 0.02em;
     color: #404bbf;
 }
 
-.link {
-         color: #434455;
+.header-menu .links:focus {
+    color: #404bbf;
 }
 
-.header-menu .links:hover {
+.link {
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.link:hover {
+    color: #404bbf;
+}
+
+.link:focus {
     color: #404bbf;
 }
 
