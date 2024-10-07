@@ -134,7 +134,7 @@ a {
     background-color: #F4F4FD;
 }
 
-.team-foto {
+.team-foto-menu {
     background-color: #FFFFFF;
 }
 
@@ -158,7 +158,7 @@ a {
     line-height: 120%;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #2e2f42;
+    color: #2e2f42;    
 }
 
 .team-foto-text {
@@ -179,6 +179,7 @@ a {
     letter-spacing: 0.02em;
     text-align: center;    
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .port-section-list {
@@ -204,6 +205,7 @@ a {
 }
 
 .footer-logos {
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 117%;
